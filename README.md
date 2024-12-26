@@ -2,6 +2,13 @@
 
 A curated list of research papers on speculative decoding and their contributions to improving performance in large language model inference.
 
+# Implementation
+
+![Speculative Decoding Target and Draft Model](sd_flow.png)
+
+
+
+
 
 ![Speculative Decoding](speculative-decoding-timeline.png)
 # Speculative Decoding Research Papers
