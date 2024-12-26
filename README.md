@@ -4,13 +4,19 @@ A curated list of research papers on speculative decoding and their contribution
 
 # Implementation
 
+
+![Speculative Decoding Target and Draft Model](sd_draft_target.png)
+
+# Token Generation
+
 ![Speculative Decoding Target and Draft Model](sd_flow.png)
 
 
 
 
 
-![Speculative Decoding](speculative-decoding-timeline.png)
+
+
 # Speculative Decoding Research Papers
 
 **Title**                                                                                   | **Authors**                                     | **Publication Date** | **Performance** | **Link**                                                                                   |
